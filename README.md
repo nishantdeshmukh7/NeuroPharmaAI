@@ -19,9 +19,3 @@ Role-based access control for admins, clinicians, and analysts.
 Real-time trial monitoring dashboards.
 
 Visualizations for survival curves, patient response patterns, dosage effectiveness, and risk scoring.
-
-📝 Automated Reporting
-
-Generate trial summaries, performance metrics, and risk analyses.
-
-Export reports as PDF or CSV.
