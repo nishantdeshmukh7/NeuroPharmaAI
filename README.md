@@ -1,12 +1,27 @@
-# React + Vite
+Neuro-Pharma AI 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A machine-learning–powered platform designed to support and optimize clinical drug trials. Neuro Pharma AI provides predictive analytics, trial monitoring, secure data management, and intuitive dashboards to help pharmaceutical teams make informed, data-driven decisions.
 
-Currently, two official plugins are available:
+🔬 ML-Driven Trial Forecasting
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Predict trial outcomes using advanced machine learning models.
 
-## Expanding the ESLint configuration
+Helps identify potential risks, delays, and success probability early.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🗄️ Secure Data Management
+
+Encrypted database storage for patient profiles, drug parameters, dosage logs, and trial outcomes.
+
+Role-based access control for admins, clinicians, and analysts.
+
+📊 Interactive Dashboards
+
+Real-time trial monitoring dashboards.
+
+Visualizations for survival curves, patient response patterns, dosage effectiveness, and risk scoring.
+
+📝 Automated Reporting
+
+Generate trial summaries, performance metrics, and risk analyses.
+
+Export reports as PDF or CSV.
